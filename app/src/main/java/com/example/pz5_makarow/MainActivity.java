@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
                 int a = 88;
                 int t = 1;
+                int [] array = new int [2];
             }
         });
     }
