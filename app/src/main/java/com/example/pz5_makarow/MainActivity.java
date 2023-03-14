@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
                 int a = 88;
                 int t = 1;
                 int [] array = new int [2];
+                int q = 86;
             }
         });
     }
